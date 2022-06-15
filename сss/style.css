@@ -715,7 +715,7 @@ header_link:active {
     position: absolute;
     top: 0;
     left: 0;
-    transform: translateY(-99%);
+    transform: translateY(-99.9%);
     background: #ffffff;
 }
 
